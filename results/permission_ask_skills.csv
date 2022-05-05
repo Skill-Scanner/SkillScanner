@@ -1,0 +1,133 @@
+skill name,permission
+skills/AlexaGroover/AlexaProject/29_Obtain_Device_Information,{'alexa::devices:all:address:full:read'}
+skills/CORaleigh/alexa-cor-webhook,{'alexa::devices:all:address:full:read'}
+skills/Khanna20/test,{'alexa::devices:all:address:full:read'}
+skills/MJR113/ask-wheel-of-lunch-skill,{'alexa::devices:all:address:full:read'}
+skills/alexa/alexa-cookbook/feature-demos/skill-demo-device-location,{'alexa::devices:all:address:full:read'}
+skills/alexa-samples/skill-sample-node-device-address-api,{'alexa::devices:all:address:full:read'}
+skills/alexa-samples/device-location-demo,{'alexa::devices:all:address:full:read'}
+skills/alexa-samples/skill-sample-nodejs-the-foodie,{'alexa::devices:all:address:full:read'}
+skills/arnoutc/mydailymenu_alexaconversations/skill-package,{'alexa::devices:all:address:full:read'}
+skills/dabblelab/6-alexa-address-information-example-skill,{'alexa::devices:all:address:full:read'}
+skills/dabblelab/6-python-alexa-address-information-example-skill,{'alexa::devices:all:address:full:read'}
+skills/malhotra-vikas/alexa-cookbook/feature-demos/skill-demo-device-location,{'alexa::devices:all:address:full:read'}
+skills/mehtanilay10/Custom-Alexa-Skill-Tutorials/29_Obtain_Device_Information,{'alexa::devices:all:address:full:read'}
+skills/mobiletta/alexa/templates/skill-demo-device-location,{'alexa::devices:all:address:full:read'}
+skills/peterkentish/bike-finder,{'alexa::devices:all:address:full:read'}
+skills/rahulyadav360/axr_radio,{'alexa::devices:all:address:full:read'}
+skills/sternma/mdalexa,{'alexa::devices:all:address:full:read'}
+skills/steveoh/alexa-how-high-am-i,{'alexa::devices:all:address:full:read'}
+skills/tienwei/smart-claims/alexa-skill/foodie,{'alexa::devices:all:address:full:read'}
+skills/umoazzam/covid_tracker_dubhacks_2020,{'alexa::devices:all:address:full:read'}
+skills/ydsingh/alexa/feature-demos/skill-demo-device-location,{'alexa::devices:all:address:full:read'}
+skills/dkori/hackathon_wildfires/skill_code,"{'alexa::devices:all:geolocation:read', 'alexa::devices:all:address:full:read'}"
+skills/sifahad-amzn/driving-directions,"{'alexa::devices:all:geolocation:read', 'alexa::devices:all:address:full:read'}"
+skills/TajSinghESGI/AlexaCurrency,"{'alexa::devices:all:geolocation:read', 'alexa::profile:given_name:read'}"
+skills/joshua-bloom/cake-time-skill-william,"{'alexa::devices:all:geolocation:read', 'alexa::profile:name:read', 'alexa::devices:all:address:full:read'}"
+skills/joshua-bloom/alexa-skill-cake-time-python,"{'alexa::devices:all:geolocation:read', 'alexa::profile:name:read', 'alexa::devices:all:address:full:read'}"
+skills/jeffblankenburg/AlexaDevTips/skill-package,"{'alexa::devices:all:geolocation:read', 'alexa::profile:name:read', 'alexa::profile:email:read', 'alexa::devices:all:address:full:read', 'alexa::profile:mobile_number:read'}"
+skills/Anand-lab/Restaurant-Finder/skill-package,{'alexa::devices:all:geolocation:read'}
+skills/alexa/alexa-cookbook/feature-demos/skill-demo-dynamic-location,{'alexa::devices:all:geolocation:read'}
+skills/alexa-samples/restaurant-finder/skill-package,{'alexa::devices:all:geolocation:read'}
+skills/alexa-samples/dynamic-location-demo,{'alexa::devices:all:geolocation:read'}
+skills/cooldevil007/Restaurant-Finder/skill-package,{'alexa::devices:all:geolocation:read'}
+skills/nationwidehackathon/analysis-paralysis/alexa-skill,{'alexa::devices:all:geolocation:read'}
+skills/netdesignr/skill-resumption-demo/skill-package,{'alexa::devices:all:geolocation:read'}
+skills/nlhien/alexa-diana-alarm,{'alexa::devices:all:geolocation:read'}
+skills/ramisleeman/alexa-auto/optimizedCharging/skill/skill-alexa-charging,{'alexa::devices:all:geolocation:read'}
+skills/ramisleeman/alexa-auto/aac-sdk1.6/video-playback-hack/skill/video-playback-hack,{'alexa::devices:all:geolocation:read'}
+skills/ramisleeman/alexa-auto/aac-sdk1.6/skill-routing-invoke/ice-cream-finder/skill/ice_cream_finder,{'alexa::devices:all:geolocation:read'}
+skills/smart-city-hack/sch-skill/skill-package,{'alexa::devices:all:geolocation:read'}
+skills/vpayette/skill-sample-node-device-location-api,{'alexa::devices:all:geolocation:read'}
+skills/ydsingh/alexa/feature-demos/skill-demo-dynamic-location,{'alexa::devices:all:geolocation:read'}
+skills/habuma/nfjs-samples/uberconf-2019/voice-apps-workshop/starflyer-travel,"{'alexa::profile:email:read', 'alexa::profile:given_name:read'}"
+skills/wrongholt/Space-Marauders/skill-package,"{'alexa::profile:email:read', 'alexa::profile:mobile_number:read', 'alexa::profile:given_name:read'}"
+skills/nlgordon/alexa-testing/groceries,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read', 'alexa::devices:all:address:full:read'}"
+skills/AlexaSRM/Skilltober-Hacktober-2020,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/KanuGaba/Amazon-PreOnboarding-Alexa-Skill,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/RamyaRani-Simhadri/Alexa-customer-information-skill-project/allexa_customer_project,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/S-Dhana-Lakshmi/Alexa-customer-information-skill-project,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/Smarto-Dev/prof,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/alexa/alexa-cookbook/feature-demos/skill-demo-customer-profile,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/alexa-samples/community-templates/scheduling-skill-template,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/alexa-samples/customer-profile-demo,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/alu0101327372/SIPC/amzn1.ask.skill.029fa6c3-fa4d-4e60-817f-90f5f81c88d7,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/cooldevil007/Customer-Profile-API---NodeJS,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/dabblelab/7-alexa-customer-information-example-skill,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/dabblelab/7-python-alexa-customer-information-example-skill,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/dabblelab/29-alexa-appointment-scheduler-skill,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/jan-kreischer/FeedbackBot/Skill,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/malhotra-vikas/alexa-cookbook/feature-demos/skill-demo-customer-profile,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/mobiletta/alexa/templates/skill-demo-customer-profile,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/ydsingh/alexa/feature-demos/skill-demo-customer-profile,"{'alexa::profile:email:read', 'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/3unyt/Alexa-Intern-Helper,"{'alexa::profile:email:read', 'alexa::profile:name:read'}"
+skills/Mikerosoft25/my-thai-star-beastbelly/alexa,"{'alexa::profile:email:read', 'alexa::profile:name:read'}"
+skills/alexa-samples/community-templates/survey-skill-template,"{'alexa::profile:email:read', 'alexa::profile:name:read'}"
+skills/anelliat/internConnect,"{'alexa::profile:email:read', 'alexa::profile:name:read'}"
+skills/bpmct/frame-oss-alexa/skill-package,"{'alexa::profile:email:read', 'alexa::profile:name:read'}"
+skills/erviveksoni/innovathon-alexa-skill,"{'alexa::profile:email:read', 'alexa::profile:name:read'}"
+skills/kulwantyadav101/Team3-HackTheMachine/soft-widget-assistant,"{'alexa::profile:email:read', 'alexa::profile:name:read'}"
+skills/rahulyadav360/25-alexa-sendgrid-subscriber-skill,"{'alexa::profile:email:read', 'alexa::profile:name:read'}"
+skills/hackathon-power-team-2019/Alexa-Trigger-Lambda/TRP_Ask_Me,{'alexa::profile:email:read'}
+skills/nithinkumarhere/srskills,{'alexa::profile:email:read'}
+skills/AdminAlexaBledina/AlexaDocumentation/05_intent_chaining/skill-package,{'alexa::profile:given_name:read'}
+skills/AdminAlexaBledina/AlexaDocumentation/09/skill-package,{'alexa::profile:given_name:read'}
+skills/AdminAlexaBledina/AlexaDocumentation/08/skill-package,{'alexa::profile:given_name:read'}
+skills/AdminAlexaBledina/AlexaDocumentation/10/skill-package,{'alexa::profile:given_name:read'}
+skills/AdminAlexaBledina/AlexaDocumentation/06/skill-package,{'alexa::profile:given_name:read'}
+skills/AdminAlexaBledina/AlexaDocumentation/05/skill-package,{'alexa::profile:given_name:read'}
+skills/AdminAlexaBledina/AlexaDocumentation/07/skill-package,{'alexa::profile:given_name:read'}
+skills/Ventrosky/starport-75/skill-package,{'alexa::profile:given_name:read'}
+skills/aaronkh/bobafetch-alexa,{'alexa::profile:given_name:read'}
+skills/adityarana420/Alexa-Integration-Prototype/mist-va/skill-package,{'alexa::profile:given_name:read'}
+skills/ak1132/RedditDealsSkill/skill-package,{'alexa::profile:given_name:read'}
+skills/alexa-samples/skill-sample-nodejs-zero-to-hero/05_intent_chaining/skill-package,{'alexa::profile:given_name:read'}
+skills/alexa-samples/skill-sample-nodejs-zero-to-hero/09/skill-package,{'alexa::profile:given_name:read'}
+skills/alexa-samples/skill-sample-nodejs-zero-to-hero/08/skill-package,{'alexa::profile:given_name:read'}
+skills/alexa-samples/skill-sample-nodejs-zero-to-hero/10/skill-package,{'alexa::profile:given_name:read'}
+skills/alexa-samples/skill-sample-nodejs-zero-to-hero/06/skill-package,{'alexa::profile:given_name:read'}
+skills/alexa-samples/skill-sample-nodejs-zero-to-hero/05/skill-package,{'alexa::profile:given_name:read'}
+skills/alexa-samples/skill-sample-nodejs-zero-to-hero/07/skill-package,{'alexa::profile:given_name:read'}
+skills/cook-a-waffle/happy-anniversary-template/skill-package,{'alexa::profile:given_name:read'}
+skills/cook-a-waffle/zero-to-hero-tutorial/skill-package,{'alexa::profile:given_name:read'}
+skills/ddlan/date.a.voice,{'alexa::profile:given_name:read'}
+skills/fgozalof/CursodeAlexa/05_intent_chaining,{'alexa::profile:given_name:read'}
+skills/fgozalof/CursodeAlexa/09,{'alexa::profile:given_name:read'}
+skills/fgozalof/CursodeAlexa/08,{'alexa::profile:given_name:read'}
+skills/fgozalof/CursodeAlexa/10,{'alexa::profile:given_name:read'}
+skills/fgozalof/CursodeAlexa/06,{'alexa::profile:given_name:read'}
+skills/fgozalof/CursodeAlexa/05,{'alexa::profile:given_name:read'}
+skills/fgozalof/CursodeAlexa/11,{'alexa::profile:given_name:read'}
+skills/fgozalof/CursodeAlexa/07,{'alexa::profile:given_name:read'}
+skills/francesco-strazzullo/alexa-introduction-talk,{'alexa::profile:given_name:read'}
+skills/germanviscuso/ASKVideoSeries/05_intent_chaining,{'alexa::profile:given_name:read'}
+skills/germanviscuso/ASKVideoSeries/09,{'alexa::profile:given_name:read'}
+skills/germanviscuso/ASKVideoSeries/08,{'alexa::profile:given_name:read'}
+skills/germanviscuso/ASKVideoSeries/10,{'alexa::profile:given_name:read'}
+skills/germanviscuso/ASKVideoSeries/06,{'alexa::profile:given_name:read'}
+skills/germanviscuso/ASKVideoSeries/05,{'alexa::profile:given_name:read'}
+skills/germanviscuso/ASKVideoSeries/07,{'alexa::profile:given_name:read'}
+skills/gsdriver/play-blackjack-alexa,{'alexa::profile:given_name:read'}
+skills/gsdriver/slotmachine,{'alexa::profile:given_name:read'}
+skills/highclaws/Alexa/skill-package,{'alexa::profile:given_name:read'}
+skills/juliocrn94/Happybirthday_Alexa_Skill/skill-package,{'alexa::profile:given_name:read'}
+skills/kenjorion/alexa_FootballBase,{'alexa::profile:given_name:read'}
+skills/migius/starting-player/alexa-skill/starting-player,{'alexa::profile:given_name:read'}
+skills/xicoder96/psys-quiz-game-alexa-skill,{'alexa::profile:given_name:read'}
+skills/tc-ca/alexa-gc-recalls/skill-package,{'alexa::profile:mobile_number:read'}
+skills/AlexaRevolution/book_samples_v1/Ch_15/CuriosidadesdelAjolote/skill-package,"{'alexa::profile:name:read', 'alexa::devices:all:address:full:read'}"
+skills/AlexaRevolution/book_samples_v1/Ch_16/CuriosidadesdelAjolote/skill-package,"{'alexa::profile:name:read', 'alexa::devices:all:address:full:read'}"
+skills/AlexaRevolution/book_samples_v1/Ch_18/CuriosidadesdelAjolote/skill-package,"{'alexa::profile:name:read', 'alexa::devices:all:address:full:read'}"
+skills/AlexaRevolution/book_samples_v1/Ch_13/CuriosidadesdelAjolote/skill-package,"{'alexa::profile:name:read', 'alexa::devices:all:address:full:read'}"
+skills/AlexaRevolution/book_samples_v1/Ch_17/CuriosidadesdelAjolote/skill-package,"{'alexa::profile:name:read', 'alexa::devices:all:address:full:read'}"
+skills/AlexaRevolution/book_samples_v1/Ch_14/CuriosidadesdelAjolote/skill-package,"{'alexa::profile:name:read', 'alexa::devices:all:address:full:read'}"
+skills/TeamCodebreakers/idk_source,"{'alexa::profile:name:read', 'alexa::profile:mobile_number:read', 'alexa::devices:all:address:full:read'}"
+skills/alexa/alexa-cookbook/feature-demos/skill-demo-person-profile,"{'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/alexa-samples/person-profile-demo,"{'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/ydsingh/alexa/feature-demos/skill-demo-person-profile,"{'alexa::profile:name:read', 'alexa::profile:mobile_number:read'}"
+skills/gsdriver/restaurant-finder,"{'alexa:devices:all:address:country_and_postal_code:read', 'alexa::devices:all:geolocation:read'}"
+skills/haackr/JustTheTemp/skill-package,"{'alexa:devices:all:address:country_and_postal_code:read', 'alexa::devices:all:geolocation:read'}"
+skills/qihengchen/alexa-skills,"{'alexa:devices:all:address:country_and_postal_code:read', 'alexa::profile:name:read'}"
+skills/jsetton/alexa-aftership/skill-package,{'alexa:devices:all:address:country_and_postal_code:read'}
+skills/stevenbeales/pain-diary,{'alexa:devices:all:address:country_and_postal_code:read'}
+skills/zanemx/what-can-i-grow,{'alexa:devices:all:address:country_and_postal_code:read'}
